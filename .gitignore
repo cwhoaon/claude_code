@@ -1,5 +1,6 @@
 *
 !.gitignore
+!install.sh
 !agents/
 !agents/**
 !rules/
